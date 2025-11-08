@@ -1,4 +1,5 @@
 # Spotify_data-analysis
+<img width="238" height="148" alt="spotify" src="https://github.com/user-attachments/assets/92c6501e-d4f3-4dc0-894a-cbc2b9e73b69" />
 
 # 🎵 Spotify Data Analysis with Advanced SQL
 
