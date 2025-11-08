@@ -1,8 +1,7 @@
 # Spotify Advanced SQL Project and Query Optimization 
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
-
-![Spotify Logo] <img width="238" height="148" alt="spotify" src="https://github.com/user-attachments/assets/de2d3853-f151-47b0-a309-cd164ba2f582" />
+                     <img width="238" height="148" alt="spotify" src="https://github.com/user-attachments/assets/de2d3853-f151-47b0-a309-cd164ba2f582" />
 
 
 ## Overview
